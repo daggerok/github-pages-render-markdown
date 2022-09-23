@@ -12,6 +12,6 @@ GitHub pages render markdown starter
 * In section `Build and deployment` select:
   * Source: `Deploy from a branch`
   * Branch: `main` and `/` root path
-* Finally click `Save`
+* Add and push commit to trigger GitHub Actions `pages build and deployment`
 * Then you can verify on `https://$username.github.io/$repository/` site
   [how markdown was rendered](https://daggerok.github.io/github-pages-render-markdown/)
